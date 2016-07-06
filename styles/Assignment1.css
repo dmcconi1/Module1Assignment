@@ -1,0 +1,48 @@
+h1 {
+    font: sans serif;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+h2 {font: sans serif;
+    text-align: center;
+}
+#BlueRidge {
+    padding: 5px;
+    width: 25%;
+    height: 25%;
+}
+
+.div1 {
+    background-color: #FFFF00;
+    text-align: right;
+    <img src="Images/IMG_3153.JPG"/>;}
+    
+    
+section
+{
+    position: absolute;
+}
+
+section.section1 {background-color: #F5DEB3; visibility: hidden; position: absolute; height: 75%; width: 100%; overflow: scrol}
+
+section.section2 {background-color: #FFA07A; visibility: hidden;height: 75%; width: 100%; overflow: scroll;}
+
+
+
+
+
+
+footer{
+    text-align: center;
+    font-style: italic;
+    background-color: #D3D3D3;
+    width:100%;
+    position: fixed;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: auto;
+    bottom: 0;}
+    
+    
+       
+
